@@ -1,4 +1,4 @@
-## Opa! Bem vindo ao meu repositório, aqui posto vários projetos que crio a partir de cursos ou a partir da faculdade.
+## Opa! Bem vindo ao meu repositório, aqui posto vários projetos que crio a partir de cursos, faculdade ou tempo livre, fique a vontade!
 <div align="center">
   <a href="https://github.com/rodrigobock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigobock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
