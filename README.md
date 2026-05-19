@@ -1,22 +1,22 @@
-# Olá, eu sou o Rodrigo Cabral! 👋
+# Hi, I'm Rodrigo Cabral! 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigobock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobock&layout=compact&langs_count=7&theme=dracula" height="170px" />
 </div>
 
-### 🚀 Sobre Mim
-Sou um **Desenvolvedor Fullstack** focado no ecossistema **Java**. Minha paixão é transformar lógica complexa em aplicações eficientes e escaláveis. Atualmente, busco aprimorar meus conhecimentos em arquitetura de microsserviços e performance de banco de dados.
+### 🚀 About Me
+I'm a **Fullstack Developer** focused on the **Java** ecosystem. My passion lies in turning complex logic into efficient, scalable applications. Currently, I am looking to deepen my knowledge in microservices architecture and database performance.
 
-- 💻 **Foco Atual:** Java (Spring Boot / Quarkus) & Ecossistema Docker.
-- ⚙️ **Experiência:** Desenvolvimento de APIs REST, integração de serviços e automação.
-- 🐧 **Entusiasta:** Usuário de Linux e fã de ferramentas que otimizam o workflow (Ollama/LLMs locais).
+- 💻 **Current Focus:** Java (Spring Boot / Quarkus) & Docker Ecosystem.
+- ⚙️ **Experience:** Developing REST APIs, service integration, and automation.
+- 🐧 **Enthusiast:** Linux user and a big fan of tools that optimize development workflow (Ollama/Local LLMs).
 
 ---
 
-### 🛠️ Toolbox Tecnológica
+### 🛠️ Tech Toolbox
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
 | **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=Quarkus&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -25,25 +25,27 @@ Sou um **Desenvolvedor Fullstack** focado no ecossistema **Java**. Minha paixão
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Featured Projects
 
-#### 🛒 [DietShopper](https://github.com/rodrigobock/dietshopper) `Em andamento`
-> **Otimização de compras para dietas.** > O app processa os itens de uma dieta prescrita e consulta APIs de supermercados para encontrar o melhor preço em cada item.  
+#### 🛒 [DietShopper](https://github.com/rodrigobock/dietshopper) `In Progress`
+> **Grocery shopping optimization for custom diets.**  
+> The app processes items from a prescribed diet and queries supermarket APIs to find the best price for each item.  
 > *Stack: Java, Spring Boot, Web Scraping/API Integration.*
 
-#### 🏋️ [Organizador de Treinos](https://github.com/rodrigobock/gym-organizer) `Em andamento`
-> **Minimalismo na academia.** > Uma alternativa leve e web para quem quer monitorar a progressão de cargas e treinos sem precisar de apps pesados ou cheios de anúncios.  
+#### 🏋️ [Gym Organizer](https://github.com/rodrigobock/gym-organizer) `In Progress`
+> **Minimalism at the gym.**  
+> A lightweight web alternative for anyone looking to track load progression and workouts without dealing with heavy, ad-filled mobile apps.  
 > *Stack: Java, Quarkus, PostgreSQL, TypeScript.*
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Connect with me
 
 <div align="left">
   <a href="https://linkedin.com/in/rodrigocabralbock" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rodrigocabralbock.vercel.app/pt" target="_blank">
+  <a href="https://rodrigocabralbock.vercel.app/en" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:seu-email-real@aqui.com">
@@ -53,4 +55,4 @@ Sou um **Desenvolvedor Fullstack** focado no ecossistema **Java**. Minha paixão
 
 ---
 
-💡 *"Transformando aprendizado em prática, um commit por vez."*
+💡 *"Turning learning into practice, one commit at a time."*
