@@ -1,10 +1,5 @@
 # Hi, I'm Rodrigo Cabral! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=rodrigobock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=rodrigobock&layout=compact&langs_count=7&theme=dracula" height="170px" />
-</div>
-
 ### 🚀 About Me
 I'm a **Fullstack Developer** focused on the **Java** ecosystem. My passion lies in turning complex logic into efficient, scalable applications. Currently, I am looking to deepen my knowledge in microservices architecture and database performance.
 
@@ -36,6 +31,7 @@ I'm a **Fullstack Developer** focused on the **Java** ecosystem. My passion lies
 > **Minimalism at the gym.**  
 > A lightweight web alternative for anyone looking to track load progression and workouts without dealing with heavy, ad-filled mobile apps.  
 > *Stack: Java, Quarkus, PostgreSQL, TypeScript.*
+> URL: https://organizador-de-treinos.vercel.app/
 
 ---
 
